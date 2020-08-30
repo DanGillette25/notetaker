@@ -29,7 +29,17 @@
 
   ## Usage
     
-  Click the "Get Started" button.  On the notes page, type in your note title, note description and click the "Save" icon.  You can click on an agenda item to display and read it.  To delete a note, click the "Trash" icon.
+  Click the "Get Started" button.  
+  
+  [![Screenshot](https://github.com/DanGillette25/notetaker/blob/master/screenshot1.JPG?raw=true)]
+  
+  On the notes page, type in your note title, note description and click the "Save" icon.
+  
+  [![Screenshot](https://github.com/DanGillette25/notetaker/blob/master/screenshot2.JPG?raw=true)]
+  
+  You can click on an agenda item to display and read it.  To delete a note, click the "Trash" icon.
+  
+  [![Screenshot](https://github.com/DanGillette25/notetaker/blob/master/screenshot3.JPG?raw=true)]
 
   ## Contribution 
     
