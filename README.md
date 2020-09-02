@@ -26,6 +26,8 @@
   ## Installation
     
   This app lives in HeroKu, but to install locally clone the GitHub repo and run NPM install to obtain the node modules.
+  
+  Deployed Link: https://dg-notetaker-app.herokuapp.com/
 
   ## Usage
     
